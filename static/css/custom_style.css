@@ -1,0 +1,21 @@
+.top-bar{
+    padding: 3px 0;
+}
+.navbar{
+    margin-left: -60px;
+}
+.logo img{
+    height:80px;
+}
+.site-title{
+    font-weight:bold;
+    font-size:24px;
+}
+.site-description{
+    font-weight:bold;
+    font-size:16px;
+    margin-top:-40px;
+}
+.banner-carousel .banner-carousel-item {
+    height: 450px;
+}
